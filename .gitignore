@@ -135,6 +135,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+/Data/medical_book.pdf
 
 # Spyder project settings
 .spyderproject
